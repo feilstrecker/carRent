@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Mazda rx7",
+        "image": "assets/img/car1.png",
+        "seat": "2 assentos",
+        "door": "2 portas",
+        "brand": "Mazda",
+        "category": "Esportivo",
+        "daily": 400,
+        "year": 1978     
+    },
+
+    {
+        "name": "Fiat Pulse",
+        "image": "assets/img/car2.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Fiat",
+        "category": "SUV",
+        "daily": 250,
+        "year": 2021        
+    },
+
+    {
+        "name": "Nissan Livina",
+        "image": "assets/img/car3.png",
+        "seat": "7 assentos",
+        "door": "4 portas",
+        "brand": "Nissan",
+        "category": "Minivan",
+        "daily": 300,
+        "year": 2010        
+    },
+
+    {
+        "name": "Fiat Mobi",
+        "image": "assets/img/car4.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Fiat",
+        "category": "Economy",
+        "daily": 99,
+        "year": 2016        
+    },
+
+    {
+        "name": "Nissan 370z",
+        "image": "assets/img/car5.png",
+        "seat": "2 assentos",
+        "door": "2 portas",
+        "brand": "Nissan",
+        "category": "Esportivo",
+        "daily": 399,
+        "year": 2008        
+    },
+
+    {
+        "name": "Nissan Magnite",
+        "image": "assets/img/car6.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Nissan",
+        "category": "SUV",
+        "daily": 280,
+        "year": 2022        
+    },
+
+    {
+        "name": "Fiat Palio",
+        "image": "assets/img/car7.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Fiat",
+        "category": "Economy",
+        "daily": 90,
+        "year": 2016        
+    },
+
+    {
+        "name": "Mazda 5",
+        "image": "assets/img/car8.png",
+        "seat": "7 assentos",
+        "door": "4 portas",
+        "brand": "Mazda",
+        "category": "Minivan",
+        "daily": 290,
+        "year": 2007       
+    },
+
+    {
+        "name": "Mazda 3",
+        "image": "assets/img/car9.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Mazda",
+        "category": "Economy",
+        "daily": 240,
+        "year": 2023
+    },
+
+    {
+        "name": "Nissan Versa Note",
+        "image": "assets/img/car10.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Nissan",
+        "category": "Economy",
+        "daily": 130,
+        "year": 2015
+    },
+
+    {
+        "name": "Mazda CX-60",
+        "image": "assets/img/car11.png",
+        "seat": "5 assentos",
+        "door": "4 portas",
+        "brand": "Mazda",
+        "category": "SUV",
+        "daily": 285,
+        "year": 2022
+    },
+
+    {
+        "name": "Fiat Idea",
+        "image": "assets/img/car12.png",
+        "seat": "7 assentos",
+        "door": "4 portas",
+        "brand": "Fiat",
+        "category": "Minivan",
+        "daily": 200,
+        "year": 2012
+    },
+
+    {
+        "name": "Fiat Uno",
+        "image": "assets/img/car13.png",
+        "seat": "5 assentos",
+        "door": "2 portas",
+        "brand": "Fiat",
+        "category": "Economy",
+        "daily": 180,
+        "year": 2015
+    },
+
+    {
+        "name": "Nissan 350z",
+        "image": "assets/img/car14.png",
+        "seat": "2 assentos",
+        "door": "2 portas",
+        "brand": "Nissan",
+        "category": "Esportivo",
+        "daily": 300,
+        "year": 2007
+    }
+
+
+]
